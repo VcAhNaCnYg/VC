@@ -43,9 +43,9 @@ GREEN    = (0,255,0)
 BLUE     = (0,0,255)
 ORANGE   = (255,69,0)
 GOLD     = (255,125,0)
-INDIGO   = (75,0,130)
+PURPLE   = (75,0,130)
 CYAN     = (0,255,255) 
-SILVER   = (192,192,192)
+BLACK    = (192,192,192)
 
 # Timing constraints
 # Time for the generation of TIME_MOVE_EVENT (ms)
