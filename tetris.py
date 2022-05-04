@@ -1,5 +1,3 @@
-
-
 # File: tetris.py 
 # Description: Main file with tetris game.
 # Author: Pavel Benáček <pavel.benacek@gmail.com>
